@@ -21,6 +21,8 @@ Route::get('/faq' ,'homepageController@faq');
 Route::get('/contact-us' , 'homepageController@contactUs');
 Route::get("/about-us" , 'homepageController@aboutUs');
 Route::get("/gallery" , "homepageController@gallery");
+Route::get("/services" , "homepageController@services");
+Route::get("/our-team" , "homepageController@ourTeam");
 
 
 

@@ -3,7 +3,7 @@
 
 @section("title")
 
-sano | homepage
+{{ config("app.name") }} | homepage
 
 @endsection
 

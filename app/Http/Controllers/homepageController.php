@@ -23,4 +23,12 @@ class homepageController extends Controller
     public function gallery(){
         return view("gallery");
     }
+
+    public function services(){
+        return view("services");
+    }
+
+    public function ourTeam(){
+        return view("our-team");
+    }
 }
