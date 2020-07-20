@@ -24,5 +24,11 @@ Route::get("/gallery" , "homepageController@gallery");
 Route::get("/services" , "homepageController@services");
 Route::get("/our-team" , "homepageController@ourTeam");
 
+Route::post('/contact-us', 'homepageController@contactUsConfirm');
 
 
+
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

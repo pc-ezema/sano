@@ -14,6 +14,17 @@ return [
     */
 
     'name' => env('APP_NAME', 'Sano'),
+    'facebook' => '#',
+    'twitter' => '#',
+    'instagram' => '#',
+    'telephone_1' => '+234 704 5835 942',
+    'telephone_2' => '+234 803 4375 693',
+    'email' => 'info@sano.ng',
+    'location' => 'Lagos, Nigeria',
+    'address' => '18 Udi street, Wema Terrace
+    Osborne Foreshore, Ikoyi
+    Lagos, Nigeria' ,
+    'web' => 'www.nardus.ng',
 
     /*
     |--------------------------------------------------------------------------
