@@ -66,7 +66,7 @@ class homepageController extends Controller
             'phone' => request()->phone,
             'subject' => request()->subject,
             'description' => request()->message,
-            'admin_email' => 'info@sano.ng',
+            'admin_email' => 'admin@sanofoods.ng',
             'created_at' => $tola->created_at,
 
         );
