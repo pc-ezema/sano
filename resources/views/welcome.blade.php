@@ -91,30 +91,6 @@
       </div>
     </section>
 
-    <!-- Divider: Certificates -->
-    <section class="bg-lighter">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="owl-carousel-4col">
-              <div class="item">
-                <a href="images/certificates/b1.jpg" data-lightbox-gallery="certificates" title="Certificate"><img src="http://placehold.it/200x154" alt=""></a>
-              </div>
-              <div class="item">
-                <a href="images/certificates/b2.jpg" data-lightbox-gallery="certificates" title="Certificate"><img src="http://placehold.it/200x154" alt=""></a>
-              </div>
-              <div class="item">
-                <a href="images/certificates/b3.jpg" data-lightbox-gallery="certificates" title="Certificate"><img src="http://placehold.it/200x154" alt=""></a>
-              </div>
-              <div class="item">
-                <a href="images/certificates/b4.jpg" data-lightbox-gallery="certificates" title="Certificate"><img src="http://placehold.it/200x154" alt=""></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- Section: Services -->
     <section id="services">
       <div class="container pb-40">
