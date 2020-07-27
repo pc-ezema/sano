@@ -127,114 +127,26 @@
       </div>
     </section>
 
-    <!-- Divider: Funfact -->
-    <section class="divider parallax layer-overlay overlay-theme-colored-8" data-bg-img="http://placehold.it/1920x873" data-parallax-ratio="0.7">
-      <div class="container">
+    <!-- Divider: Clients -->
+    <section class="clients bg-theme-colored">
+      <div class="container pt-10 pb-0">
         <div class="row">
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-smile mt-5 text-white"></i>
-              <h2 data-animation-duration="2000" data-value="1754" class="animate-number text-white font-42 font-weight-500">0</h2>
-              <h4 class="text-white text-uppercase font-weight-600">Happy Patients</h4>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-rocket mt-5 text-white"></i>
-              <h2 data-animation-duration="2000" data-value="675" class="animate-number text-white font-42 font-weight-500">0</h2>
-              <h4 class="text-white text-uppercase font-weight-600">Our Services</h4>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-add-user mt-5 text-white"></i>
-              <h2 data-animation-duration="2000" data-value="248" class="animate-number text-white font-42 font-weight-500">0</h2>
-              <h4 class="text-white text-uppercase font-weight-600">Our Doctors</h4>
-            </div>
-          </div>
-          <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50">
-            <div class="funfact text-center">
-              <i class="pe-7s-global mt-5 text-white"></i>
-              <h2 data-animation-duration="2000" data-value="24" class="animate-number text-white font-42 font-weight-500">0</h2>
-              <h4 class="text-white text-uppercase font-weight-600">Service Points</h4>
+          <div class="col-md-12">
+            <!-- Section: Clients -->
+            <div class="owl-carousel-6col text-center owl-nav-top">
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
             </div>
           </div>
         </div>
       </div>
     </section>
-
-    <!-- Section: Depertment -->
-    <section id="depertment" class="bg-silver-light">
-      <div class="container">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-              <h2 class="text-uppercase mt-0 line-height-1">Our Depertment</h2>
-              <div class="title-icon">
-                <img class="mb-10" src="images/title-icon.png" alt="">
-              </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem obcaecati!</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="p-20 bg-white">
-                <img src="http://placehold.it/370x270" alt="">
-                <h3 class=""><a href="#">Dental Implant</a></h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>                
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="p-20 bg-white">
-                <img src="http://placehold.it/370x270" alt="">
-                <h3 class=""><a href="#">Dental Bridges</a></h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="p-20 bg-white">
-                <img src="http://placehold.it/370x270" alt="">
-                <h3 class=""><a href="#">Root Canel</a></h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="p-20 bg-white">
-                <img src="http://placehold.it/370x270" alt="">
-                <h3 class=""><a href="#">Dental Implant</a></h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>                
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="p-20 bg-white">
-                <img src="http://placehold.it/370x270" alt="">
-                <h3 class=""><a href="#">Dental Bridges</a></h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
-              </div>
-            </div>
-
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="p-20 bg-white">
-                <img src="http://placehold.it/370x270" alt="">
-                <h3 class=""><a href="#">Root Canel</a></h3>
-                <p class="">Lorem ipsum dolor sit amet, consectetur adipisicing elit tem autem voluptatem obcaecati.</p>
-                <a href="#" class="btn btn-flat btn-theme-colored mt-15 text-theme-color-2">Read More</a>             
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
 @endsection

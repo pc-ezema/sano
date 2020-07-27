@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-md-7">
             <div class="widget text-white">
-              <i class="fa fa-clock-o text-theme-colored"></i> Opening Hours:  Mon - Tues : 6.00 am - 10.00 pm, Sunday Closed
+              <i class="fa fa-clock-o text-theme-colored_2"></i> Opening Hours:  Mon - Tues : 6.00 am - 10.00 pm, Sunday Closed
             </div>
           </div>
           <div class="col-md-5">
@@ -63,7 +63,7 @@
               <ul class="styled-icons icon-dark icon-sm mt-10">
                 <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".1s" data-wow-offset="10"><a href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
                 <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".2s" data-wow-offset="10"><a href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".3s" data-wow-offset="10"><a href="#" data-bg-color="#05A7E3"><i class="fa fa-skype"></i></a></li>
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".3s" data-wow-offset="10"><a href="#" data-bg-color="#05A7E3"><i class="fa fa-instagram"></i></a></li>
               </ul>
             </div>
           </div>
