@@ -84,7 +84,5 @@
         </div>
       </div>
     </section>
-
-  @includeIf('layouts.contact')
-
+    
 @endsection

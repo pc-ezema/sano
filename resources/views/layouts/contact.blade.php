@@ -7,7 +7,7 @@
               <h2 class="text-white"><i class="pe-7s-call text-white"></i><a class="text-white" href="#"> (+01) &ndash; 234 567 890</a></h2>
               <h2 class="text-white">Please free to contact us for emergency case.</h2>
               <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit rem autem voluptatem obcaecati lienum phaedrum torquatos nec eu, vis detraxit periculis ex.</p>
-              <a href="#" class="btn btn-default btn-theme-colored2 mt-20">Contact With Us</a>
+              <a href="/contact-us" class="btn btn-default btn-theme-colored2 mt-20">Contact With Us</a>
             </div>
           </div>
         </div>
