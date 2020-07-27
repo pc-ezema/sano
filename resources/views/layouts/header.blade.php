@@ -11,15 +11,15 @@
             <div class="widget pull-right flip sm-pull-none">
               <ul class="list-inline text-right flip sm-text-center">
                 <li>
-                  <a class="text-white" href="#">FAQ</a>
+                  <a class="text-white" href="/faq">FAQ</a>
                 </li>
                 <li class="text-white">|</li>
                 <li>
-                  <a class="text-white" href="#">Help Desk</a>
+                  <a class="text-white" href="/contact-us">Help Desk</a>
                 </li>
                 <li class="text-white">|</li>
                 <li>
-                  <a class="text-white" href="#">Support</a>
+                  <a class="text-white" href="/contact-us">Support</a>
                 </li>
               </ul>
             </div>
@@ -61,9 +61,9 @@
           <div class="col-xs-12 col-sm-12 col-md-2 sm-text-center">
             <div class="widget mt-10 mb-10 m-0">
               <ul class="styled-icons icon-dark icon-sm mt-10">
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".1s" data-wow-offset="10"><a href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".2s" data-wow-offset="10"><a href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
-                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".3s" data-wow-offset="10"><a href="#" data-bg-color="#05A7E3"><i class="fa fa-instagram"></i></a></li>
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".1s" data-wow-offset="10"><a href="#" data-bg-color="#00A85A"><i class="fa fa-facebook"></i></a></li>
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".2s" data-wow-offset="10"><a href="#" data-bg-color="#00A85A"><i class="fa fa-twitter"></i></a></li>
+                <li class="wow fadeInLeft" data-wow-duration="1.5s" data-wow-delay=".3s" data-wow-offset="10"><a href="#" data-bg-color="#00A85A"><i class="fa fa-instagram"></i></a></li>
               </ul>
             </div>
           </div>

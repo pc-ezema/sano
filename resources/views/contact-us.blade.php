@@ -66,13 +66,13 @@
         <div class="col-md-12">
         @includeIf('layouts.error_template')
           <!-- Contact Form -->
-          <form   class="contact-form-transparent" action="/contact-us" method="post">
+          <form class="contact-form-transparent" action="/contact-us" method="post">
           {{ csrf_field() }}
             <div class="row">
               <div class="col-sm-6">
                 <div class="form-group">
                   <label>Name <small>*</small></label>
-                  <input name="fullname" class="form-control" type="text" placeholder="Enter Name" required="">
+                  <input name="fullname" class="form-control" type="text" placeholder="Enter Name">
                 </div>
               </div>
               <div class="col-sm-6">
@@ -83,18 +83,19 @@
               </div>
             </div>
             <div class="row">
+            <div class="col-sm-6">
+                <div class="form-group">
+                  <label>Phone</label>
+                  <input name="phone" class="form-control" type="text" placeholder="Enter Phone">
+                </div>
+              </div>
               <div class="col-sm-6">
                 <div class="form-group">
                   <label>Subject <small>*</small></label>
                   <input name="subject" class="form-control required" type="text" placeholder="Enter Subject">
                 </div>
               </div>
-              <div class="col-sm-6">
-                <div class="form-group">
-                  <label>Phone</label>
-                  <input name="phone" class="form-control" type="text" placeholder="Enter Phone">
-                </div>
-              </div>
+
             </div>
             <div class="form-group">
               <label>Message</label>

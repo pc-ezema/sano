@@ -24,7 +24,7 @@ return [
     'address' => '18 Udi street, Wema Terrace
     Osborne Foreshore, Ikoyi
     Lagos, Nigeria' ,
-    'web' => 'www.nardus.ng',
+    'web' => 'www.sanofoods.ng',
 
     /*
     |--------------------------------------------------------------------------
