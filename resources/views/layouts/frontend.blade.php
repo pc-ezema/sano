@@ -88,8 +88,13 @@
 	<!-- Footer -->
 	@includeIf("layouts.footer")
   <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+
 </div>
+ <!--  chat plugin  -->
+ @includeIf("layouts.tawk")
+ 
 <!-- end wrapper -->
+
 
 <!-- Footer Scripts -->
 <!-- JS | Custom script for all pages -->
