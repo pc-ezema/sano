@@ -101,6 +101,12 @@
               <label>Message</label>
               <textarea name="message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
             </div>
+
+            <div class="form-group">
+               {!! NoCaptcha::renderJs() !!}
+               {!! NoCaptcha::display() !!}
+            </div>
+
             <div class="form-group">
               <input name="form_botcheck" class="form-control" type="hidden" value="" />
               <button type="submit" class="btn btn-dark btn-theme-colored btn-flat btn-block" data-loading-text="Please wait...">Send your message</button>

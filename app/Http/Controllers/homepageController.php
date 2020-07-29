@@ -42,6 +42,7 @@ class homepageController extends Controller
             'phone' => 'required',
             'subject' => 'required',
             'message' => 'required',
+            'g-recaptcha-response' => 'required|captcha'
         
         ));
 
