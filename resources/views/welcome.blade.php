@@ -97,7 +97,7 @@
         <div class="section-title text-center">
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
-              <h2 class="text-uppercase mt-0 line-height-1">Our Services</h2>
+              <h2 class="text-uppercase mt-0 line-height-1">Our Products</h2>
               <div class="title-icon">
                 <img class="mb-10" src="images/title-icon.png" alt="">
               </div>
@@ -110,29 +110,29 @@
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="fa fa-medkit text-theme-colored font-38"></i>
-                <h3 class="mt-20">Root Canal</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quasi qui inventore, cumque nulla rerum consem!</p>
+                <h3 class="mt-20">TURMERIC SPICE</h3>
+                <p>Turmeric is a bright yellow-orange spice commonly used in curries and sauces. It comes from the turmeric root. The spice has been used for its medicinal, antioxidant, and anti-inflammatory properties.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-brush18 text-theme-colored font-38"></i>
-                <h3 class="mt-20">Teeth Whitening</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quasi qui inventore, cumque nulla rerum consem!</p>
+                <h3 class="mt-20"> THYME LEAVE</h3>
+                <p>Thyme is an herb with dietary, medicinal, and ornamental uses. The flowers, leaves, and oil of thyme have been used to treat a range of symptoms and complaints. These include diarrhea, stomach ache, arthritis, and sore throat.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-hospital17 text-theme-colored font-38"></i>
-                <h3 class="mt-20">Wisdom Teeth</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quasi qui inventore, cumque nulla rerum consem!</p>
+                <h3 class="mt-20"> SANO OFSP BREAD </h3>
+                <p>A product made from orange fleshed sweet potato, a new potato variety with numerous health benefits such as its richness in beta carotene, which is an excellent source of Vitamin A; very effective in decreasing diabetic complications and curing internal and external inflammations.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-dentist text-theme-colored font-38"></i>
-                <h3 class="mt-20">Crowns Bridges</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quasi qui inventore, cumque nulla rerum consem!</p>
+                <h3 class="mt-20"> ORGANIC CHICKEN</h3>
+                <p> Organic chicken is a frozen chicken from broilers fed organically, without the use vaccines, antibiotics and chemical growth hormones.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">

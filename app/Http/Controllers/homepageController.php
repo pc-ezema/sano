@@ -10,7 +10,9 @@ class homepageController extends Controller
     
 
     public function faq(){
-        return view('faq');
+
+        $datas = \App\Repositories\Faq::getFaq();
+        return view('faq')->with('datas' , $datas);
     }
 
     public function contactUs(){

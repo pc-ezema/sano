@@ -22,8 +22,8 @@
               </div>
             </div>
             <div class="col-md-8">
-              <h2 class="text-theme-colored mt-30">Welcome To Our <span class="text-theme-colored2">DentalPro</span></h2>
-              <p>We sincerely believe that visiting a dentist shouldn’t be a frightening or stressful experience! We provide an equally comfortable experience of relaxation for all our young and adult customers! Also we implement a lot of pain management and anesthesia options. Everything we do is aimed at making you feel comfortable!</p>
+              <h2 class="text-theme-colored mt-30">Welcome To <span class="text-theme-colored2">Sano Foods</span></h2>
+              <p>SANO FOODS LIMITED is an organization with a mission aimed at providing healthier meals for the people and the nation at large. We produce a wide range of organic consumer products aimed at improving diet and creating a sustainable value to the market at large.</p>
               <div class="row">
                 <div class="col-sm-6 col-md-6">
                   <div class="icon-box iconbox-theme-colored2 mt-20">

@@ -30,8 +30,8 @@
               <div class="icon-box iconbox-theme-colored2 left media p-0">
                 <a href="#" class="icon icon-bordered icon-circled media-left pull-left"><i class="flaticon-medical-teeth2 text-theme-colored"></i></a>
                 <div class="media-body">
-                  <h3 class="media-heading heading">Dental Implants</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                  <h3 class="media-heading heading"> ORGANIC CHICKEN </h3>
+                  <p> We provide 100% organically grown commercial chicken, which are free from growth hormones, antibiotics and vaccines, which are the major causes of sudden deaths and bad health conditions, such as cancer, kidney failure, and a host of others. </p>
                 </div>
               </div>
             </div>
@@ -39,7 +39,7 @@
               <div class="icon-box iconbox-theme-colored2 left media p-0">
                 <a href="#" class="icon icon-bordered icon-circled media-left pull-left"><i class="fa fa-medkit text-theme-colored"></i></a>
                 <div class="media-body">
-                  <h3 class="media-heading heading">Root Canal</h3>
+                  <h3 class="media-heading heading"> ORGANIC SPICES</h3>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
                 </div>
               </div>
@@ -48,8 +48,8 @@
               <div class="icon-box iconbox-theme-colored2 left media p-0">
                 <a href="#" class="icon icon-bordered icon-circled media-left pull-left"><i class="flaticon-medical-brush18 text-theme-colored"></i></a>
                 <div class="media-body">
-                  <h3 class="media-heading heading">Teeth Whitening</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam perspiciatis, deserunt.</p>
+                  <h3 class="media-heading heading"> ORGANIC CONSUMER PRODUCTS</h3>
+                  <p>SANO Foods is the leading company in the production of organic consumer products, which ranges from Lemon grass tea, Thyme tea, Turmeric tea, Orange fleshed sweet potato (OFSP) bread, Ijebu Garri, Smoked fish, OFSP Garri, Basil Bread, Burger Bread, Picante, Lemon grass Juice etc.</p>
                 </div>
               </div>
             </div>
