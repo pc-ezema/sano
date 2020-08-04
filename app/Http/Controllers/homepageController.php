@@ -23,8 +23,8 @@ class homepageController extends Controller
         return view("about-us");
     }
 
-    public function gallery(){
-        return view("gallery");
+    public function products(){
+        return view("products");
     }
 
     public function services(){

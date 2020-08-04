@@ -32,7 +32,7 @@
                       <h3>Quality Doctors</h3>
                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita porro ipsa, nulla alias consequatur repellendus deserunt iste Dolorum vero</p>
                     </div>
-                    <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a>
+                    <!-- <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a> -->
                   </div>
                 </div>
                 <div class="col-sm-6 col-md-6">
@@ -42,7 +42,7 @@
                       <h3>Affordable Clinic</h3>
                       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita porro ipsa, nulla alias consequatur repellendus deserunt iste Dolorum vero</p>
                     </div>
-                    <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a>
+                    <!-- <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a> -->
                   </div>
                 </div>
               </div>
@@ -58,7 +58,7 @@
         <div class="section-title text-center">
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
-              <h2 class="text-uppercase mt-0 line-height-1">Services</h2>
+              <h2 class="text-uppercase mt-0 line-height-1">Products</h2>
               <div class="title-icon">
                 <img class="mb-10" src="images/title-icon.png" alt="">
               </div>

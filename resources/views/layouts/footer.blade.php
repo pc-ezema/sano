@@ -36,8 +36,8 @@
 						<h5 class="widget-title line-bottom">Other Links</h5>
 						<ul class="list-border">
 							<li><a href="/faq">FAQ</a></li>
-							<li><a href="/services">Services</a></li>
-							<li><a href="/gallery">Gallery</a></li>
+							<!-- <li><a href="/services">Services</a></li> -->
+							<li><a href="/our-products"> Products</a></li>
 						</ul>
 					</div>
 					<div class="widget dark">
