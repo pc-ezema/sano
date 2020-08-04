@@ -184,7 +184,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item design">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/organic-chicken.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -192,7 +192,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/1.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/organic-chicken.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -202,7 +202,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item branding photography">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/scent-leaves-powder.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -210,7 +210,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/2.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/scent-leaves-powder.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -220,7 +220,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item design">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/sweet-basil-powder.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -228,7 +228,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/3.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/sweet-basil-powder.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -238,7 +238,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item branding">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/thyme-leaves.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -246,7 +246,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/4.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/thyme-leaves.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -256,7 +256,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item design photography">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/bread.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -264,7 +264,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/5.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/bread.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -274,7 +274,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item photography">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/cookies.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -282,7 +282,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/6.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/cookies.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -292,7 +292,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item branding">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/sano-thyme-leaves.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -300,7 +300,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/7.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/sano-thyme-leaves.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -310,7 +310,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item photography">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/cupcake.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -318,7 +318,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/8.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/cupcake.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
@@ -328,7 +328,7 @@
 								<!-- Portfolio Item Start -->
 								<div class="gallery-item branding">
 									<div class="thumb">
-										<img class="img-fullwidth" src="http://placehold.it/500x339" alt="project">
+										<img class="img-fullwidth" src="/images/sano-gallery/curry-powder.jpg" alt="project">
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -336,7 +336,7 @@
 										<div class="icons-holder">
 											<div class="icons-holder-inner">
 												<div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored">
-													<a href="images/gallery/full/9.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
+													<a href="/images/sano-gallery/curry-powder.jpg" data-lightbox-gallery="gallery" title="Your Title Here"><i class="fa fa-picture-o"></i></a>
 												</div>
 											</div>
 										</div>
