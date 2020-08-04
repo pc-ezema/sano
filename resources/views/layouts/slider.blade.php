@@ -214,7 +214,7 @@
               <!-- SLIDE 3 -->
               <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="http://placehold.it/1920x680" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <img src="http://placehold.it/1920x680" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                <img src="/images/third-slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0" 
@@ -230,7 +230,7 @@
                   data-start="1000" 
                   data-basealign="slide" 
                   data-responsive_offset="on" 
-                  style="z-index: 5;background-color:rgba(0, 0, 0, 0.25);border-color:rgba(0, 0, 0, 1.00);"> 
+                  style="z-index: 5;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 1.00);"> 
                 </div>
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
