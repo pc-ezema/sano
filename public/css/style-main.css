@@ -6586,8 +6586,9 @@ blockquote p {
 }
 .pager.dark li a {
   color: #fff;
-  background-color: #333333;
+  background-color: #00a85a;
   border: 1px solid transparent;
+  border-radius: 5px;
 }
 /*
  * Shortcode: pricing.less

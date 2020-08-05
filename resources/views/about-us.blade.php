@@ -12,45 +12,8 @@
     @includeIf("layouts.breadcrumb", ["title" =>"About Us" , "subtitle" => "About Us"])
 
     <!-- Section About -->
-    <section>
-      <div class="container pb-0">
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-4">
-              <div class="thumb hidden-xs hidden-sm">
-                <img class="img-fullwidth" src="http://placehold.it/340x464" alt="project">
-              </div>
-            </div>
-            <div class="col-md-8">
-              <h2 class="text-theme-colored mt-30">Welcome To <span class="text-theme-colored2">Sano Foods</span></h2>
-              <p>SANO FOODS LIMITED is an organization with a mission aimed at providing healthier meals for the people and the nation at large. We produce a wide range of organic consumer products aimed at improving diet and creating a sustainable value to the market at large.</p>
-              <div class="row">
-                <div class="col-sm-6 col-md-6">
-                  <div class="icon-box iconbox-theme-colored2 mt-20">
-                    <a class="icon icon-bordered icon-circled icon-border-effect effect-circled"><i class="flaticon-medical-medical51 text-theme-colored"></i></a>
-                    <div class="features-details">
-                      <h3>Quality Doctors</h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita porro ipsa, nulla alias consequatur repellendus deserunt iste Dolorum vero</p>
-                    </div>
-                    <!-- <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a> -->
-                  </div>
-                </div>
-                <div class="col-sm-6 col-md-6">
-                  <div class="icon-box iconbox-theme-colored2 mt-20">
-                    <a class="icon icon-bordered icon-circled icon-border-effect effect-circled"><i class="flaticon-medical-medicine14 text-theme-colored"></i></a>
-                    <div class="features-details">
-                      <h3>Affordable Clinic</h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita porro ipsa, nulla alias consequatur repellendus deserunt iste Dolorum vero</p>
-                    </div>
-                    <!-- <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+   @includeIf('layouts.about')
+   
 
     <!-- Section: about -->
     <section class="">
@@ -77,54 +40,6 @@
           <div class="team-details bg-silver-light pt-10 pb-10">
             <h4 class="text-uppercase font-weight-600 m-5">Dr. Linda Feldman</h4>
             <h6 class="text-theme-colored font-15 font-weight-400 mt-0">Root Canals Dentist</h6>
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-        <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
-          <div class="team-thumb">
-            <img class="img-fullwidth" alt="" src="http://placehold.it/275x370">
-            <div class="team-overlay"></div>
-          </div>
-          <div class="team-details bg-silver-light pt-10 pb-10">
-            <h4 class="text-uppercase font-weight-600 m-5">Dr. Jessica Tailor</h4>
-            <h6 class="text-theme-colored font-15 font-weight-400 mt-0">Implant Surgeon </h6>    
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-        <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
-          <div class="team-thumb">
-            <img class="img-fullwidth" alt="" src="http://placehold.it/275x370">
-            <div class="team-overlay"></div>
-          </div>
-          <div class="team-details bg-silver-light pt-10 pb-10">
-            <h4 class="text-uppercase font-weight-600 m-5">Dr. Nicholas Fleming</h4>
-            <h6 class="text-theme-colored font-15 font-weight-400 mt-0">Cosmetic Dental Surgeon</h6>  
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-        <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
-          <div class="team-thumb">
-            <img class="img-fullwidth" alt="" src="http://placehold.it/275x370">
-            <div class="team-overlay"></div>
-          </div>
-          <div class="team-details bg-silver-light pt-10 pb-10">
-            <h4 class="text-uppercase font-weight-600 m-5">Dr. Brian Adam</h4>
-            <h6 class="text-theme-colored font-15 font-weight-400 mt-0">Restorative Dentist</h6>  
-          </div>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
-        <div class="team-members border-bottom-theme-color-2px text-center maxwidth400">
-          <div class="team-thumb">
-            <img class="img-fullwidth" alt="" src="http://placehold.it/275x370">
-            <div class="team-overlay"></div>
-          </div>
-          <div class="team-details bg-silver-light pt-10 pb-10">
-            <h4 class="text-uppercase font-weight-600 m-5">Dr. Brian Adam</h4>
-            <h6 class="text-theme-colored font-15 font-weight-400 mt-0">Restorative Dentist</h6>  
           </div>
         </div>
       </div>

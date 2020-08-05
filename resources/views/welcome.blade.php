@@ -72,24 +72,7 @@
     </section>
 
     <!-- Section: about -->
-    <section class="">
-      <div class="container pb-0">
-        <div class="row">
-          <div class="col-md-8">
-            <h4 class="text-uppercase text-theme-colored2 mt-sm-10">Welcome to dental pro</h4>
-            <h2 class="mt-0">A dentist, also known as a dental surgeon, The dentist's supporting team aids in providing oral health services.</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque commodi molestiae autem fugit consectetur dolor ullam illo ipsa numquam, quod iusto enim ipsum amet iusto amet consec Lorem ipsum dolor sit amet</p>
-            <h3 class="text-theme-colored mb-0">Dr. Corvin Adams</h3>
-            <p><span>Doctor of Dental Surgery (DDS)</span></p>
-
-            <p class="mt-20"><img src="images/signature.png" alt=""></p>
-          </div>
-          <div class="col-md-4">
-            <img src="http://placehold.it/340x464" alt="">
-          </div>
-        </div>
-      </div>
-    </section>
+   @includeIf('layouts.about')
 
     <!-- Section: Services -->
     {{-- <section id="services">
@@ -156,8 +139,162 @@
 
    @includeIf('layouts.contact')
 
+   <!-- Section: Depertment -->
+   <section id="depertment" class="">
+	<div class="container">
+		<div class="section-title text-center">
+			<div class="row">
+			  <div class="col-md-8 col-md-offset-2">
+				<h2 class="text-uppercase mt-0 line-height-1">Our Products</h2>
+				<div class="title-icon">
+				  <img class="mb-10" src="images/title-icon.png" alt="">
+				</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem obcaecati!</p>
+			  </div>
+			</div>
+		  </div>
+		<div class="section-content">
+			<div class="row">
+				<div class="col-sm-6 col-md-4">
+					<div class="box-hover-effect effect-siberia mb-30">
+						<div class="effect-wrapper">
+							<div class="thumb">
+								<img class="img-fullwidth" src="/images/sano-gallery/organic-chicken.jpg" alt="project">
+							</div>
+							<div class="info-box">
+								<div class="info-title bg-theme-colored-transparent-9">
+									<h3 class="title text-white mt-0">Organic Chicken</h3>
+								</div>
+								<div class="info-content text-white bg-theme-colored-transparent-9">
+									<h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> Title place here
+									</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+										incididunt ut labore et dolore magna aliqua.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="box-hover-effect effect-siberia mb-30">
+						<div class="effect-wrapper">
+							<div class="thumb">
+								<img class="img-fullwidth" src="/images/sano-gallery/scent-leaves-powder.jpg" alt="project">
+							</div>
+							<div class="info-box">
+								<div class="info-title bg-theme-colored-transparent-9">
+									<h3 class="title text-white mt-0">Scent Leaves Powder</h3>
+								</div>
+								<div class="info-content text-white bg-theme-colored-transparent-9">
+									<h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> Title place here
+									</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+										incididunt ut labore et dolore magna aliqua.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="box-hover-effect effect-siberia mb-30">
+						<div class="effect-wrapper">
+							<div class="thumb">
+								<img class="img-fullwidth" src="/images/sano-gallery/sweet-basil-powder.jpg" alt="project">
+							</div>
+							<div class="info-box">
+								<div class="info-title bg-theme-colored-transparent-9">
+									<h3 class="title text-white mt-0">Sweet Basil Powder</h3>
+								</div>
+								<div class="info-content text-white bg-theme-colored-transparent-9">
+									<h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> Title place here
+									</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+										incididunt ut labore et dolore magna aliqua.</p>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="box-hover-effect effect-siberia mb-30">
+						<div class="effect-wrapper">
+							<div class="thumb">
+								<img class="img-fullwidth" src="/images/sano-gallery/thyme-leaves.jpg" alt="project">
+							</div>
+							<div class="info-box">
+								<div class="info-title bg-theme-colored-transparent-9">
+									<h3 class="title text-white mt-0">Thyme Leaves</h3>
+								</div>
+								<div class="info-content text-white bg-theme-colored-transparent-9">
+									<h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> Title place here
+									</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+										incididunt ut labore et dolore magna aliqua.</p>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="box-hover-effect effect-siberia mb-30">
+						<div class="effect-wrapper">
+							<div class="thumb">
+								<img class="img-fullwidth" src="/images/sano-gallery/bread.jpg" alt="project">
+							</div>
+							<div class="info-box">
+								<div class="info-title bg-theme-colored-transparent-9">
+									<h3 class="title text-white mt-0">OFSP Bread</h3>
+								</div>
+								<div class="info-content text-white bg-theme-colored-transparent-9">
+									<h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> Title place here
+									</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+										incididunt ut labore et dolore magna aliqua.</p>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-6 col-md-4">
+					<div class="box-hover-effect effect-siberia mb-30">
+						<div class="effect-wrapper">
+							<div class="thumb">
+								<img class="img-fullwidth" src="/images/sano-gallery/cookies.jpg" alt="project">
+							</div>
+							<div class="info-box">
+								<div class="info-title bg-theme-colored-transparent-9">
+									<h3 class="title text-white mt-0">OFSP Cookies</h3>
+								</div>
+								<div class="info-content text-white bg-theme-colored-transparent-9">
+									<h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> Title place here
+									</h3>
+									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+										incididunt ut labore et dolore magna aliqua.</p>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div>
+					<nav>
+						<ul class="pager dark">
+						  <li class="previous"><a href="/our-products"> View More <span aria-hidden="true">&rarr;</span></a></li>
+						</ul>
+					  </nav>
+					 </div>
+				
+			</div>
+		</div>
+	</div>
+</section>
+
+
 		<!--start gallary Section-->
-		<section class="">
+		{{-- <section class="">
 			<div class="container">
 				<div class="section-title text-center mt-0">
 					<div class="row">
@@ -376,6 +513,6 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> --}}
 
   @endsection
