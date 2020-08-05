@@ -185,6 +185,9 @@
 								<div class="gallery-item design">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/organic-chicken.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text">Organic Chicken</div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -203,6 +206,9 @@
 								<div class="gallery-item branding photography">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/scent-leaves-powder.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -221,6 +227,9 @@
 								<div class="gallery-item design">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/sweet-basil-powder.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -239,6 +248,9 @@
 								<div class="gallery-item branding">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/thyme-leaves.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -257,6 +269,9 @@
 								<div class="gallery-item design photography">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/bread.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -275,6 +290,9 @@
 								<div class="gallery-item photography">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/cookies.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -293,6 +311,9 @@
 								<div class="gallery-item branding">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/sano-thyme-leaves.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -311,6 +332,9 @@
 								<div class="gallery-item photography">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/cupcake.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
@@ -329,6 +353,9 @@
 								<div class="gallery-item branding">
 									<div class="thumb">
 										<img class="img-fullwidth" src="/images/sano-gallery/curry-powder.jpg" alt="project">
+										<div class="img-gallery-text-holder">
+											<div class="img-gallery-text"></div>
+										</div>
 										<div class="overlay-shade"></div>
 										<div class="text-holder">
 											<div class="title text-center">Sample Title</div>
