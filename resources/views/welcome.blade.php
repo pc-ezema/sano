@@ -27,8 +27,8 @@
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-blood8 text-theme-colored"></i> </a>
-                    <h3 class="text-white">Free Consultation</h3>
-                    <p class="text-white">Eleifend lobortis bibendum volutpat est senectus duis convallis</p>
+                    <h3 class="text-white">OFSP Bread</h3>
+                    <p class="text-white_1">A bread with abundant vitamin in every bite</p>
                   </div>
                 </div>
               </div>
@@ -38,8 +38,8 @@
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-medical45 text-theme-colored"></i> </a>
-                    <h3 class="text-white">Quality Brackets</h3>
-                    <p class="text-white">Eleifend lobortis bibendum volutpat est senectus duis convallis</p>
+                    <h3 class="text-white">Organic Picante</h3>
+                    <p class="text-white_1">Enjoy the new taste of a hot and spicy chicken</p>
                   </div>
                 </div>
               </div>
@@ -49,8 +49,8 @@
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-pill text-theme-colored"></i> </a>
-                    <h3 class="text-white">Latest Technology</h3>
-                    <p class="text-white">Eleifend lobortis bibendum volutpat est senectus duis convallis</p>
+                    <h3 class="text-white">Organic Spices</h3>
+                    <p class="text-white_1">Fortify your health with fresh and pure spices</p>
                   </div>
                 </div>
               </div>
@@ -60,8 +60,8 @@
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-heart254  text-theme-colored"></i> </a>
-                    <h3 class="text-white">Excellent Services</h3>
-                    <p class="text-white">Eleifend lobortis bibendum volutpat est senectus duis convallis</p>
+                    <h3 class="text-white">Priscus Tea</h3>
+                    <p class="text-white_1">A tea with a refreshing burst to a healthy life</p>
                   </div>
                 </div>
               </div>
@@ -92,7 +92,7 @@
     </section>
 
     <!-- Section: Services -->
-    <section id="services">
+    {{-- <section id="services">
       <div class="container pb-40">
         <div class="section-title text-center">
           <div class="row">
@@ -118,41 +118,41 @@
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-brush18 text-theme-colored font-38"></i>
                 <h3 class="mt-20"> THYME LEAVE</h3>
-                <p>Thyme is an herb with dietary, medicinal, and ornamental uses. The flowers, leaves, and oil of thyme have been used to treat a range of symptoms and complaints. These include diarrhea, stomach ache, arthritis, and sore throat.</p>
+                <p>Thyme is an herb with dietary and medicinal uses. The flowers, leaves, and oil of thyme have been used to treat a range of symptoms and complaints. These include diarrhea, stomach ache, arthritis, and sore throat</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-hospital17 text-theme-colored font-38"></i>
                 <h3 class="mt-20"> SANO OFSP BREAD </h3>
-                <p>A product made from orange fleshed sweet potato, a new potato variety with numerous health benefits such as its richness in beta carotene, which is an excellent source of Vitamin A; very effective in decreasing diabetic complications and curing internal and external inflammations.</p>
+                <p>A bread made from orange fleshed sweet potato, with numerous health benefits, which is an excellent source of Vitamin A. It is very effective in decreasing diabetic complications and curing internal and external inflammations.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-dentist text-theme-colored font-38"></i>
                 <h3 class="mt-20"> ORGANIC CHICKEN</h3>
-                <p> Organic chicken is a frozen chicken from broilers fed organically, without the use vaccines, antibiotics and chemical growth hormones.</p>
+                <p> Organic chicken is a frozen chicken from broilers fed organically, without the use vaccines, antibiotics and chemical growth hormones. They are free from toxins, improves immunity and reduces chances of cancer.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-30 p-10">
                 <i class="flaticon-medical-hospital35 text-theme-colored font-38"></i>
-                <h3 class="mt-20">Cosmetic Dentis</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quasi qui inventore, cumque nulla rerum consem!</p>
+                <h3 class="mt-20">PRISCUS LEMOGRASS TEA</h3>
+                <p>Priscus Lemongrass tea has high Citral content which gives it more potency for detoxification, reducing blood pressure and boosting metabolism which makes digestion quicker and helps in burning more calories.</p>
               </div>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
               <div class="text-center mb-sm-30 p-10">
                 <i class="flaticon-medical-teeth2 text-theme-colored font-38"></i>
-                <h3 class="mt-20">Dental Implants</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia quasi qui inventore, cumque nulla rerum consem!</p>
+                <h3 class="mt-20">SMOKED FISH </h3>
+                <p>SANO Smoked fish comes with a unique taste and flavour. it is a great source of anti- inflammatory omega 3s and a great source of protein. Our smoked fish is packed with punch of essential nutrients our bodies need to function .</p>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </section>
+    </section> --}}
 
    @includeIf('layouts.contact')
 
@@ -162,7 +162,7 @@
 				<div class="section-title text-center mt-0">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<h2 class="mt-0 line-height-1">Our <span class="text-theme-colored">Gallery</span></h2>
+							<h2 class="mt-0 line-height-1">Our <span class="text-theme-colored">Products</span></h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem autem<br> voluptatem obcaecati!</p>
 						</div>
 					</div>

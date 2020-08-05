@@ -77,14 +77,16 @@
             <ul class="menuzord-menu">
               <li class="active"><a href="/">Home</a>
               </li>
-              <li><a href="#">About</a>
+              <li><a href="/about-us">About Us</a>
+              </li>
+              {{-- <li><a href="#">About</a>
                 <ul class="dropdown">
                   <li><a href="/about-us">About Us</a>
                   </li>
                   <li><a href="/our-team">Our Team</a>
                   </li>
                 </ul>
-              </li>
+              </li> --}}
               <!-- <li><a href="/services">Services</a>
               </li> -->
               <li><a href="/our-products"> Products </a>

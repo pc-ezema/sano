@@ -321,7 +321,7 @@ blockquote.gray.bg-theme-colored footer {
   background-color: rgba(0, 163, 200, 0.8);
 }
 .layer-overlay.overlay-theme-colored-9::before {
-  background-color: #00A85A;
+  background-color: #00a85aab;
 }
 /*
  * btn-default: theme-color
