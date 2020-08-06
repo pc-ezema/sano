@@ -109,6 +109,190 @@ class Products{
             incididunt ut labore et dolore magna aliqua.',
         ],
 
+        //14
+        (object) [
+            'thumbnail' => '/images/sano-gallery/all-in-one.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //15
+        (object) [
+            'thumbnail' => '/images/sano-gallery/chicken.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //16
+        (object) [
+            'thumbnail' => '/images/sano-gallery/chicken-laps.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //17
+        (object) [
+            'thumbnail' => '/images/sano-gallery/chicken-parts.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //18
+        (object) [
+            'thumbnail' => '/images/sano-gallery/chicken-pieces.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //19
+        (object) [
+            'thumbnail' => '/images/sano-gallery/fresh-corn.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //20
+        (object) [
+            'thumbnail' => '/images/sano-gallery/fried-chicken.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //21
+        (object) [
+            'thumbnail' => '/images/sano-gallery/garri.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //22
+        (object) [
+            'thumbnail' => '/images/sano-gallery/hand-sanitizer.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //23
+        (object) [
+            'thumbnail' => '/images/sano-gallery/leaf-1.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //24
+        (object) [
+            'thumbnail' => '/images/sano-gallery/leaf-2.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //25
+        (object) [
+            'thumbnail' => '/images/sano-gallery/leaf-3.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //26
+        (object) [
+            'thumbnail' => '/images/sano-gallery/leaf-4.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //27
+        (object) [
+            'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //28
+        (object) [
+            'thumbnail' => '/images/sano-gallery/mango-juice.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //29
+        (object) [
+            'thumbnail' => '/images/sano-gallery/meat.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //30
+        (object) [
+            'thumbnail' => '/images/sano-gallery/ofsp-garri.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //31
+        (object) [
+            'thumbnail' => '/images/sano-gallery/pineapple-juice.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //32
+        (object) [
+            'thumbnail' => '/images/sano-gallery/snail.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //33
+        (object) [
+            'thumbnail' => '/images/sano-gallery/lemongrass-hand-sanitizer.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //34
+        (object) [
+            'thumbnail' => '/images/sano-gallery/lemongrass-handwash.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //35
+        (object) [
+            'thumbnail' => '/images/sano-gallery/lemongrass-hydrosol.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
+        //36
+        (object) [
+            'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
+            'title' => 'Turmeric Powder',
+            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+            incididunt ut labore et dolore magna aliqua.',
+        ],
+
         ])->all();
 
         return $datas;

@@ -29,7 +29,7 @@
             </div>  
       </div>
         <div class="col-md-4">
-          <img src="http://placehold.it/340x464" alt="">
+          <img src="/images/sano-gallery/2-juice.jpg" alt="">
         </div>
       </div>
     </div>

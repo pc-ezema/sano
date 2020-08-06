@@ -1,5 +1,5 @@
  <!-- Section: Call To Action -->
- <section  class="divider parallax layer-overlay overlay-theme-colored-9" data-bg-img="http://placehold.it/1920x873">
+ <section  class="divider parallax layer-overlay overlay-theme-colored-9" data-bg-img="/images/sano-wallpaper.jpg">
       <div class="container">
         <div class="call-to-action">
           <div class="row">
