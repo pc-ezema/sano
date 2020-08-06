@@ -27,7 +27,8 @@ class homepageController extends Controller
     }
 
     public function products(){
-        return view("products");
+        $datas =\App\Repositories\Products::getProduct();
+        return view("products")->with('datas' , $datas);
     }
 
     public function services(){
