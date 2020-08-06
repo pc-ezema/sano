@@ -1,4 +1,4 @@
-<section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="http://placehold.it/1920x873">
+<section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="/images/sano-wallpaper.jpg">
   <div class="container pt-60 pb-60">
     <!-- Section Content -->
     <div class="section-content">
