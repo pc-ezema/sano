@@ -38,7 +38,7 @@
                 <div class="text-center pt-30 pb-sm-30">
                   <div class="icon-box text-center">
                     <a class="icon bg-silver-light icon-circled" href="#"> <i class="flaticon-medical-medical45 text-theme-colored"></i> </a>
-                    <h3 class="text-white">Organic Picante</h3>
+                    <h3 class="text-white">Organic Meats</h3>
                     <p class="text-white_1">Enjoy the new taste of a hot and spicy chicken</p>
                   </div>
                 </div>
