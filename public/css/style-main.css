@@ -8562,6 +8562,7 @@ body.has-fixed-footer .main-content {
   padding-top: 1.5%;
 }
 
+/*Product Button Creation */
 .buy_button {
   background-color: rgba(9, 9, 9, 0.3);
   font-family: 'Open Sans', sans-serif;
@@ -8580,4 +8581,31 @@ body.has-fixed-footer .main-content {
 
 .buy_button:hover {
   background-color: #F58634;
+}
+
+/* Message Alert Creation */
+.btn-danger {
+  display: block;
+  border: none;
+  color: #a94442;
+  width: 100%;
+  padding: 8px 16px;
+  margin-bottom: 1.2rem;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: justify;
+  background-color: #f2dede;
+}
+
+.btn-success {
+  display: block;
+  border: none;
+  color: #155724;
+  width: 100%;
+  padding: 8px 16px;
+  margin-bottom: 1.2rem;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: justify;
+  background-color: #d4edda;
 }
