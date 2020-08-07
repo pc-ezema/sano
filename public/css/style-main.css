@@ -8572,7 +8572,7 @@ body.has-fixed-footer .main-content {
   color: #fff;
   position: absolute;
   bottom: 1rem;
-  left: 1.8rem;
+  left: 50vh auto 0;
   padding: 0 1.5rem;
   border: 1.5px solid #00A85A;
   border-radius: 5px;

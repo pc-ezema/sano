@@ -29,7 +29,7 @@
             </div>  
       </div>
         <div class="col-md-4">
-          <img src="/images/sano-gallery/2-juice.jpg" alt="">
+          <img src="/images/sano-gallery/side-bar-image.jpg" alt="">
         </div>
       </div>
     </div>
