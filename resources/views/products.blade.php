@@ -32,6 +32,7 @@
                                         <h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> {{ $data->title }}
                                         </h3>
                                         <p>{{ $data->description }}</p>
+                                        <button class="buy_button">Buy</button>
                                     </div>
                                 </div>
                             </div>
