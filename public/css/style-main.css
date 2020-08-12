@@ -8609,3 +8609,13 @@ body.has-fixed-footer .main-content {
   text-align: justify;
   background-color: #d4edda;
 }
+
+@media (min-width: 0px) and (max-width: 500px) {
+   .mobile_section-content {
+     display: none;
+   }
+
+   .mobile_text-section {
+     padding-top: 0!important;
+   }
+}

@@ -20,7 +20,7 @@
     <!-- Section: home-box -->
     <section>
       <div class="container pb-0">
-        <div class="section-content">
+        <div class="section-content mobile_section-content">
           <div class="row equal-height-inner" data-margin-top="-150px">
             <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay1">
               <div class="sm-height-auto bg-theme-colored_1">
