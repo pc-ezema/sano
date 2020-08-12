@@ -1,4 +1,68 @@
-<header id="header" class="header modern-header modern-header-theme-colored2">
+<!-- Header for Mobile -->
+<header id="header" class="header mobile">
+ 
+
+  <div class="header-nav">
+    <div class="header-nav-wrapper navbar-scrolltofixed bg-white">
+      <div class="container">
+        <nav id="menuzord-right" class="menuzord blue no-bg"><a class="menuzord-brand pull-left flip mb-15" href="/"><img src="images/logo.png" alt=""></a>
+          <ul class="menuzord-menu">
+            <li class="active"><a href="/">Home</a>
+            </li>
+            <li><a href="/about-us">About Us</a>
+            </li>
+            {{-- <li><a href="#">About</a>
+              <ul class="dropdown">
+                <li><a href="/about-us">About Us</a>
+                </li>
+                <li><a href="/our-team">Our Team</a>
+                </li>
+              </ul>
+            </li> --}}
+            <!-- <li><a href="/services">Services</a>
+            </li> -->
+            <li><a href="/our-products"> Products </a>
+            </li>
+            <li><a href="/contact-us">Contact Us</a>
+            </li>
+            <li><a href="/faq"> FAQ </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header id="header" class="header modern-header modern-header-theme-colored2 desktop">
     <div class="header-top bg-theme-colored2 sm-text-center">
       <div class="container">
         <div class="row">
@@ -102,3 +166,34 @@
       </div>
     </div>
   </header>
+
+
+  <style>
+    @media (min-width: 0px) and (max-width: 500px){
+      .mobile{
+        display: block;
+      }
+
+      .desktop{
+        display: none;
+      }
+
+      
+    }
+
+
+
+    @media (min-width: 501px) and (max-width: 5000px){
+      .mobile{
+        display: none;
+      }
+
+      .desktop{
+        display: block;
+      }
+
+      
+    }
+
+
+  </style>
