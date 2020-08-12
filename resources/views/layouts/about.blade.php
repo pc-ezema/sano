@@ -1,5 +1,5 @@
 <section class="">
-    <div class="container pb-0">
+    <div class="container pb-0 mobile_text-section">
       <div class="row">
         <div class="col-md-8">
           <h4 class="text-uppercase text-theme-colored2 mt-sm-10"> WELCOME TO SANO FOODS LIMITED </h4>
