@@ -142,8 +142,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/chicken-laps.jpg',
             'title' => ' Chicken Laps',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> Improves immunity </li>
+            <li> Reduces chances of cancer </li>
+            <li> Improves heart health </li>
+            <li> Improves sperm quality </li>',
         ],
 
         //17
