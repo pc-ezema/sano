@@ -31,7 +31,7 @@
                                     <div class="info-content text-white bg-theme-colored-transparent-9">
                                         <h3 class="text-white mt-0"><i class="fa fa-globe font-24"></i> {{ $data->title }}
                                         </h3>
-                                        <p>{{ $data->description }}</p>
+                                        <ul style="list-style-type: square; margin-left: 15px;"> {!! $data->description !!} </ul>
                                         <button class="buy_button">Buy</button>
                                     </div>
                                 </div>

@@ -5,44 +5,51 @@ use Illuminate\Support\Str;
 
 
 class Products{
-    public static function getProduct(){
+    public static function getProduct($take = 100){
         $datas = collect([
 
             //1
            (object) [
                'thumbnail' => '/images/sano-gallery/organic-chicken.jpg',
                'title' => 'Organic Chicken',
-               'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-               incididunt ut labore et dolore magna aliqua',
+               'description' => '
+               <li> Improves immunity </li>
+               <li> Reduces chances of cancer </li>
+               <li> Improves heart health </li>
+               <li> Improves sperm quality </li>
+              ',
 
            ],
             //2
-            (object) [
-                'thumbnail' => '/images/sano-gallery/scent-leaves-powder.jpg',
-                'title' => 'Scent Leaves Powder',
-                'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                incididunt ut labore et dolore magna aliqua.',
-            ],
+            // (object) [
+            //     'thumbnail' => '/images/sano-gallery/scent-leaves-powder.jpg',
+            //     'title' => 'Scent Leaves Powder',
+            //     'description' => 'is a bright yellow-orange spice commonly used in curries and sauces. It comes from the turmeric root. The spice has been used for its medicinal, antioxidant, and anti-inflammatory properties.',
+            // ],
              //3
            (object) [
             'thumbnail' => '/images/sano-gallery/sweet-basil-powder.jpg',
             'title' => 'Sweet Basil Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li>	Detoxifies the body: frees the body from toxins  </li>
+            <li> 	Diabetes management: slows down the release of blood sugar  </li>
+            ',
         ],
          //4
-         (object) [
-            'thumbnail' => '/images/sano-gallery/thyme-leaves.jpg',
-            'title' => 'Thyme Leaves',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        //  (object) [
+        //     'thumbnail' => '/images/sano-gallery/thyme-leaves.jpg',
+        //     'title' => 'Thyme Leaves',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
          //5
          (object) [
             'thumbnail' => '/images/sano-gallery/bread.jpg',
             'title' => 'OFSP Bread',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li>  Treats stomach ulcers  </li>
+            <li>  Controls diabetes  </li>
+            <li>  Prevents Vitamin A deficiency </li>',
         ],
          
          //6
@@ -57,8 +64,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/chili-pepper-powder.jpg',
             'title' => 'Chili Pepper Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boosts immunity </li>
+            <li> 	Reduces severe headache  </li>
+            <li> 	Natural pain relief</li>
+            <li> 	Cardiovascular benefits </li>',
         ],
 
          //8
@@ -97,38 +106,42 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/sano-thyme-leaves.jpg',
             'title' => 'Sano Thyme Leaves',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boosts immunity </li>
+            <li> 	Lowers blood pressure  </li>
+            <li> 	Treats sore throat and coughing </li>
+            <li> 	Aids fresher breath: gets rid of bad breath </li>',
         ],
 
         //13
         (object) [
             'thumbnail' => '/images/sano-gallery/turmeric-powder.jpg',
             'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> Cancer prevention </li>
+            <li> 	Boosts the immune system </li>
+            <li> 	It gives a glowing and healthy skin </li>
+            <li> 	Promotes heart and blood vessel health </li>',
         ],
 
         //14
-        (object) [
-            'thumbnail' => '/images/sano-gallery/all-in-one.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/all-in-one.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //15
-        (object) [
-            'thumbnail' => '/images/sano-gallery/chicken.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/chicken.jpg',
+        //     'title' => ' Dressed Chicken',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //16
         (object) [
             'thumbnail' => '/images/sano-gallery/chicken-laps.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => ' Chicken Laps',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
@@ -136,23 +149,28 @@ class Products{
         //17
         (object) [
             'thumbnail' => '/images/sano-gallery/chicken-parts.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => ' 4 Parts Cut',
+            'description' => '<li> Improves immunity </li>
+            <li> Reduces chances of cancer </li>
+            <li> Improves heart health </li>
+            <li> Improves sperm quality </li>',
         ],
 
         //18
         (object) [
             'thumbnail' => '/images/sano-gallery/chicken-pieces.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => '8 Parts Cut',
+            'description' => '<li> Improves immunity </li>
+            <li> Reduces chances of cancer </li>
+            <li> Improves heart health </li>
+            <li> Improves sperm quality </li>
+            ',
         ],
 
         //19
         (object) [
             'thumbnail' => '/images/sano-gallery/fresh-corn.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => 'Fresh Corn',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
@@ -160,7 +178,7 @@ class Products{
         //20
         (object) [
             'thumbnail' => '/images/sano-gallery/fried-chicken.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => 'Grilled Chicken',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
@@ -168,23 +186,25 @@ class Products{
         //21
         (object) [
             'thumbnail' => '/images/sano-gallery/garri.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => 'SANO Garri',
+            'description' => '<li> Aids Digestion </li>
+            <li> Improves Immune System </li>
+            <li> Promotes Eye health </li>
+            <li> Energizes and Cools the Body </li>',
         ],
 
         //22
-        (object) [
-            'thumbnail' => '/images/sano-gallery/hand-sanitizer.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/hand-sanitizer.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //23
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-1.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => ' Fresh Scent Leaf ',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
@@ -192,7 +212,7 @@ class Products{
         //24
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-2.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => ' Fresh Mint Leaf',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
@@ -200,7 +220,7 @@ class Products{
         //25
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-3.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => ' Fresh Sweet Basil ',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
@@ -208,92 +228,100 @@ class Products{
         //26
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-4.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => ' Fresh Lemongrass',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
 
         //27
-        (object) [
-            'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //28
         (object) [
             'thumbnail' => '/images/sano-gallery/mango-juice.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => 'Lemongrass Mango Juice',
+            'description' => '<li> 	Anti – stress: helps you relax better </li>
+            <li> Protects your body against infection </li>
+            <li> It gives a healthy skin </li>
+            <li> It aids easy digestion </li>',
         ],
 
         //29
         (object) [
             'thumbnail' => '/images/sano-gallery/meat.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => 'Pork',
+            'description' => '<li> Promotes joint and bone health </li>
+            <li> Promotes heart and blood vessel health </li>
+            <li> Lowers body temperature </li>
+            <li> Improves sleep quality and promotes deeper / more restful sleep </li>',
         ],
 
         //30
         (object) [
             'thumbnail' => '/images/sano-gallery/ofsp-garri.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => 'OFSP Garri',
+            'description' => '<li> 	Boosts immune system </li>
+            <li> Treats stomach ulcers </li>
+            <li> Protects your eyes from night blindness and age-related decline </li>
+            <li> Prevents Vitamin A deficiency </li>',
         ],
 
         //31
         (object) [
             'thumbnail' => '/images/sano-gallery/pineapple-juice.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'title' => 'Lemongrass Pineapple Juice',
+            'description' => '<li> 	Anti – stress: helps you relax better </li>
+            <li> Protects your body against infection </li>
+            <li> It gives a healthy skin </li>
+            <li> It aids easy digestion </li>',
         ],
 
         //32
         (object) [
             'thumbnail' => '/images/sano-gallery/snail.jpg',
-            'title' => 'Turmeric Powder',
+            'title' => 'Snail',
             'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
             incididunt ut labore et dolore magna aliqua.',
         ],
 
         //33
-        (object) [
-            'thumbnail' => '/images/sano-gallery/lemongrass-hand-sanitizer.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/lemongrass-hand-sanitizer.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //34
-        (object) [
-            'thumbnail' => '/images/sano-gallery/lemongrass-handwash.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/lemongrass-handwash.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //35
-        (object) [
-            'thumbnail' => '/images/sano-gallery/lemongrass-hydrosol.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/lemongrass-hydrosol.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
         //36
-        (object) [
-            'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
-            'title' => 'Turmeric Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
-        ],
+        // (object) [
+        //     'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
+        //     'title' => 'Turmeric Powder',
+        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+        //     incididunt ut labore et dolore magna aliqua.',
+        // ],
 
-        ])->all();
+        ])->take($take)->all();
 
         return $datas;
     }

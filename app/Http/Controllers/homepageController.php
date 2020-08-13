@@ -9,7 +9,8 @@ class homepageController extends Controller
 {
     
     public function welcome(){
-        return view('welcome');
+        $datas = \App\Repositories\Products::getProduct(6);
+        return view('welcome')->with('datas' , $datas);
     }
 
     public function faq(){
