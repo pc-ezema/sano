@@ -7,7 +7,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
 {{-- <meta name="description" content="MediPress - Health & Medical HTML Template" />
 <meta name="keywords" content="keyword1,keyword2,keyword3,keyword4,keyword5" /> --}}
-<meta name="author" content="ThemeMascot" />
+{{-- <meta name="author" content="ThemeMascot" /> --}}
 
 <!-- Page Title -->
 <title> @yield("title") </title>
