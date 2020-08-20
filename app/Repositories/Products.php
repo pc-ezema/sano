@@ -21,28 +21,24 @@ class Products{
 
            ],
             //2
-            // (object) [
-            //     'thumbnail' => '/images/sano-gallery/scent-leaves-powder.jpg',
-            //     'title' => 'Scent Leaves Powder',
-            //     'description' => 'is a bright yellow-orange spice commonly used in curries and sauces. It comes from the turmeric root. The spice has been used for its medicinal, antioxidant, and anti-inflammatory properties.',
-            // ],
+            (object) [
+                'thumbnail' => '/images/sano-gallery/smoked-fish.png',
+                'title' => 'Smoked Fish',
+                'description' => '<li> Lowers blood pressure </li>
+                <li> Promotes heart wellness</li>
+                <li> Supports healthy Hair and Skin</li>
+                <li> Supports eye health </li>',
+            ],
              //3
            (object) [
             'thumbnail' => '/images/sano-gallery/sweet-basil-powder.jpg',
             'title' => 'Sweet Basil Powder',
             'description' => '<li> 	Boost the immune system  </li>
-            <li>	Detoxifies the body: frees the body from toxins  </li>
-            <li> 	Diabetes management: slows down the release of blood sugar  </li>
-            ',
+            <li>	Detoxifies the body </li>
+            <li> 	Diabetes management </li>
+            <li> Good for digestion</li>',
         ],
          //4
-        //  (object) [
-        //     'thumbnail' => '/images/sano-gallery/thyme-leaves.jpg',
-        //     'title' => 'Thyme Leaves',
-        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        //     incididunt ut labore et dolore magna aliqua.',
-        // ],
-         //5
          (object) [
             'thumbnail' => '/images/sano-gallery/bread.jpg',
             'title' => 'OFSP Bread',
@@ -52,12 +48,24 @@ class Products{
             <li>  Prevents Vitamin A deficiency </li>',
         ],
          
+         //5
+         (object) [
+            'thumbnail' => '/images/sano-gallery/trophical-basil-powder.png',
+            'title' => 'Trophical Basil Powder',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li> Detoxifies the body </li>
+            <li> Diabetes management</li>
+            <li> Good for digestion</li>',
+        ],
+         
          //6
          (object) [
             'thumbnail' => '/images/sano-gallery/cookies.jpg',
             'title' => 'OFSP Cookies',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li>  Treats stomach ulcers  </li>
+            <li>  Controls diabetes  </li>
+            <li>  Prevents Vitamin A deficiency </li>',
         ],
 
         //7
@@ -74,16 +82,20 @@ class Products{
          (object) [
             'thumbnail' => '/images/sano-gallery/cupcake.jpg',
             'title' => 'Cup Cake',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li>  Treats stomach ulcers  </li>
+            <li>  Controls diabetes  </li>
+            <li>  Prevents Vitamin A deficiency </li>',
         ],
 
         //9
         (object) [
             'thumbnail' => '/images/sano-gallery/curry-powder.jpg',
             'title' => 'Curry Powder',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boost immunity </li>
+            <li>  Blood purifier </li>
+            <li>  Improves eye health </li>
+            <li>  Promotes digestion </li>',
         ],
 
         //10
@@ -98,8 +110,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/pepper-soup-seasoning.jpg',
             'title' => 'Pepper Soup Seasoning',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> Boosts immunity </li>
+            <li> 	Reliefs heartburn  </li>
+            <li> 	Detoxifies the body  </li>
+            <li> 	Diabetes management </li>',
         ],
 
         //12
@@ -123,20 +137,24 @@ class Products{
         ],
 
         //14
-        // (object) [
-        //     'thumbnail' => '/images/sano-gallery/all-in-one.jpg',
-        //     'title' => 'Turmeric Powder',
-        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        //     incididunt ut labore et dolore magna aliqua.',
-        // ],
+        (object) [
+            'thumbnail' => '/images/sano-gallery/all-soup-seasoning.png',
+            'title' => 'All Soup Seasoning',
+            'description' => '<li> Boosts immunity </li>
+            <li> 	Aids digestion </li>
+            <li> 	Promotes heart health </li>
+            <li> 	Aids fresher breath: gets rid of bad breath </li>',
+        ],
 
         //15
-        // (object) [
-        //     'thumbnail' => '/images/sano-gallery/chicken.jpg',
-        //     'title' => ' Dressed Chicken',
-        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        //     incididunt ut labore et dolore magna aliqua.',
-        // ],
+        (object) [
+            'thumbnail' => '/images/sano-gallery/jollof-rice-seasoning.png',
+            'title' => 'Jollof Rice Seasoning',
+            'description' => '<li> 	Boost immunity </li>
+            <li> Aids weight loss </li>
+            <li> Aids digestion </li>
+            <li> Lowers blood sugar level </li>',
+        ],
 
         //16
         (object) [
@@ -205,11 +223,14 @@ class Products{
 
         //23
         (object) [
-            'thumbnail' => '/images/sano-gallery/leaf-1.jpg',
-            'title' => ' Fresh Scent Leaf ',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'thumbnail' => '/images/sano-gallery/mango-juice.jpg',
+            'title' => 'Lemongrass Mango Juice',
+            'description' => '<li> 	Anti – stress: helps you relax better </li>
+            <li> Protects your body against infection </li>
+            <li> It gives a healthy skin </li>
+            <li> It aids easy digestion </li>',
         ],
+        
 
         //24
         (object) [
@@ -223,8 +244,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-3.jpg',
             'title' => ' Fresh Sweet Basil ',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li>	Detoxifies the body </li>
+            <li> 	Diabetes management </li>
+            <li> Good for digestion</li>',
         ],
 
         //26
@@ -236,21 +259,23 @@ class Products{
         ],
 
         //27
-        // (object) [
-        //     'thumbnail' => '/images/sano-gallery/lemongrass-liquid-soap.jpg',
-        //     'title' => 'Turmeric Powder',
-        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        //     incididunt ut labore et dolore magna aliqua.',
-        // ],
+        (object) [
+            'thumbnail' => '/images/sano-gallery/chicken-seasoning.png',
+            'title' => 'Chicken Seasoning',
+            'description' => '<li> Lowers blood sugar </li>
+            <li> Prevents constipation </li>
+            <li> Rich in nutrients </li>
+            <li> Promotes heart health </li>',
+        ],
 
         //28
         (object) [
-            'thumbnail' => '/images/sano-gallery/mango-juice.jpg',
-            'title' => 'Lemongrass Mango Juice',
-            'description' => '<li> 	Anti – stress: helps you relax better </li>
-            <li> Protects your body against infection </li>
-            <li> It gives a healthy skin </li>
-            <li> It aids easy digestion </li>',
+            'thumbnail' => '/images/sano-gallery/leaf-1.jpg',
+            'title' => ' Fresh Scent Leaf ',
+            'description' => '<li> 	Boost the immune system  </li>
+            <li> Detoxifies the body </li>
+            <li> Diabetes management</li>
+            <li> Good for digestion</li>',
         ],
 
         //29
@@ -269,8 +294,9 @@ class Products{
             'title' => 'OFSP Garri',
             'description' => '<li> 	Boosts immune system </li>
             <li> Treats stomach ulcers </li>
+            <li> Prevents Vitamin A deficiency </li>
             <li> Protects your eyes from night blindness and age-related decline </li>
-            <li> Prevents Vitamin A deficiency </li>',
+            ',
         ],
 
         //31
@@ -293,10 +319,12 @@ class Products{
 
         //33
         // (object) [
-        //     'thumbnail' => '/images/sano-gallery/lemongrass-hand-sanitizer.jpg',
-        //     'title' => 'Turmeric Powder',
-        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        //     incididunt ut labore et dolore magna aliqua.',
+        //     'thumbnail' => '/images/sano-gallery/jollof-rice-seasoning.png',
+        //     'title' => 'Jollof Rice Seasoning',
+        //     'description' => '<li> 	Anti – stress: helps you relax better </li>
+        //     <li> Protects your body against infection </li>
+        //     <li> It gives a healthy skin </li>
+        //     <li> It aids easy digestion </li>',
         // ],
 
         //34

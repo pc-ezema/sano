@@ -10,8 +10,8 @@
                 <div class="icon-box iconbox-theme-colored2 mt-20">
                   <a class="icon icon-bordered icon-circled icon-border-effect effect-circled"><i class="flaticon-medical-medical51 text-theme-colored"></i></a>
                   <div class="features-details">
-                    <h3>Quality Doctors</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita porro ipsa, nulla alias consequatur repellendus deserunt iste Dolorum vero</p>
+                    <h3> Mission Statement </h3>
+                    <p> Towards a healthier nation </p>
                   </div>
                   <!-- <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a> -->
                 </div>
@@ -20,8 +20,8 @@
                 <div class="icon-box iconbox-theme-colored2 mt-20">
                   <a class="icon icon-bordered icon-circled icon-border-effect effect-circled"><i class="flaticon-medical-medicine14 text-theme-colored"></i></a>
                   <div class="features-details">
-                    <h3>Affordable Clinic</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita porro ipsa, nulla alias consequatur repellendus deserunt iste Dolorum vero</p>
+                    <h3> Vision </h3>
+                    <p> To be a responsive and dynamic organization providing healthier meals for people </p>
                   </div>
                   <!-- <a href="#" class="btn btn-flat btn-theme-colored2 mt-15">Read More</a> -->
                 </div>

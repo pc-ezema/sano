@@ -162,7 +162,7 @@
                   data-splitin="none" 
                   data-splitout="none" 
                   data-responsive_offset="on" 
-                  style="z-index: 7; white-space: nowrap;">We provide amazing array of organic consumer products <br> both fresh and dried for your consumer.
+                  style="z-index: 7; white-space: nowrap;">We provide amazing array of organic consumer products <br> both fresh and dried for your consumption.
                 </div>
                 <!-- LAYER NR. 5 -->
                 <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
