@@ -43,7 +43,7 @@
                                     <a class="icon bg-silver-light icon-circled" href="#"> <i
                                             class="flaticon-medical-medical45 text-theme-colored"></i> </a>
                                     <h3 class="text-white">Organic Meats</h3>
-                                    <p class="text-white_1">Enjoy the new taste of a hot and spicy chicken</p>
+                                    <p class="text-white_1">Enjoy the healthy and nourishing taste of an organic meat</p>
                                 </div>
                             </div>
                         </div>
