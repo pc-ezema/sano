@@ -19,7 +19,7 @@ return [
     'instagram' => '#',
     'telephone_1' => '+234 - 906 2822 258',
     'telephone_2' => '+234 - 904 6040 991',
-    'email' => 'info@sano.ng',
+    'email' => 'info@sanofoods.ng',
     'location' => 'Lagos, Nigeria',
     'address' => '20, Oba Ogunusi Road, Akiode Bus stop, Ojudu Berger, 
     Lagos, Nigeria' ,

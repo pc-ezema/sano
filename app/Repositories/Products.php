@@ -214,12 +214,14 @@ class Products{
         ],
 
         //22
-        // (object) [
-        //     'thumbnail' => '/images/sano-gallery/hand-sanitizer.jpg',
-        //     'title' => 'Turmeric Powder',
-        //     'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-        //     incididunt ut labore et dolore magna aliqua.',
-        // ],
+        (object) [
+            'thumbnail' => '/images/sano-gallery/coconut-bread.png',
+            'title' => 'OFSP Coconut Bread',
+            'description' => '<li>	Highly nutritious </li>
+            <li> Benefits heart health </li>
+            <li> Promote blood sugar control </li>
+            <li> Contains powerful antioxidants </li>',
+        ],
 
         //23
         (object) [

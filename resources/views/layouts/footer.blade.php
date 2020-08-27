@@ -4,7 +4,7 @@
 				<div class="col-sm-6 col-md-3">
 					<div class="widget dark">
 						<img class="mt-10 mb-20" alt="" src="images/logo-wide-white.png">
-						<p>Lorem ipsum dolor adipisicing amet, consectetur sit elit. Aspernatur incidihil quo officia.</p>
+						<p>SANO FOODS LIMITED is an organization with a mission aimed at providing healthier meals for the people and the nation at large.</p>
 						<ul class="list-inline mt-5">
 							<li class="m-0 pl-10 pr-10"> <i class="fa fa-map-marker text-theme-colored mr-5"></i> <a class="text-gray" href="#"> {{ config("app.address") }} </a> </li>
 							<li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="#">{{ config("app.telephone_1") }}</a> </li>
@@ -53,21 +53,22 @@
 						<h5 class="widget-title line-bottom">Opening Hours</h5>
 						<div class="opening-hours">
 							<ul class="list-border">
-								<li class="clearfix"> <span> Mon - Tues :  </span>
-									<div class="value pull-right flip"> 6.00 am - 10.00 pm </div>
+								<li class="clearfix"> <span> Mon - Wednes :  </span>
+									<div class="value pull-right flip"> 9:00 am – 6:00 pm </div>
 								</li>
-								<li class="clearfix text-white"> <span> Wednes - Thurs :</span>
-									<div class="value pull-right flip"> 8.00 am - 6.00 pm </div>
+								<li class="clearfix text-white"> <span> Thurs :</span>
+									<div class="value pull-right flip"> 10:00 am – 6:00 pm </div>
 								</li>
 								<li class="clearfix"> <span> Fri : </span>
-									<div class="value pull-right flip"> 3.00 pm - 8.00 pm </div>
+									<div class="value pull-right flip"> 9:00 am – 6:00 pm </div>
+								</li>
+								<li class="clearfix"> <span> Sat : </span>
+									<div class="value pull-right flip"> 10:00 am – 6:00 pm </div>
 								</li>
 								<li class="clearfix"> <span> Sun : </span>
 									<div class="value pull-right flip"> Closed </div>
 								</li>
-								<li class="clearfix"> <span> Sat : </span>
-									<div class="value pull-right flip"> 10.00 am - 2.00 pm </div>
-								</li>
+								
 							</ul>
 						</div>
 					</div>
