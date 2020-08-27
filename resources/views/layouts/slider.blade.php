@@ -11,7 +11,8 @@
               <!-- SLIDE 1 -->
               <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <img src="/images/first-slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"  class="rev-slidebg" data-no-retina>
+                <div class="mobile-first-slider">
+                </div>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0" 
@@ -100,7 +101,8 @@
               <!-- SLIDE 2 -->
               <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <img src="/images/second-slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                <div class="mobile-second-slider">
+                </div>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0" 
@@ -191,7 +193,8 @@
               <!-- SLIDE 3 -->
               <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <img src="/images/third-slider.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                <div class="mobile-third-slider">
+                </div>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
                 <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0" 
