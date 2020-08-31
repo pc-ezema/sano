@@ -191,16 +191,20 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/fresh-corn.jpg',
             'title' => 'Fresh Corn',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li>	Enhances energy </li>
+            <li> Preserves healthy skin </li>
+            <li> Lowers blood sugar & cholesterol level </li>
+            <li> Reduces the risk of Anemia </li>',
         ],
 
         //20
         (object) [
             'thumbnail' => '/images/sano-gallery/fried-chicken.jpg',
             'title' => 'Grilled Chicken',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li>	Improves immunity </li>
+            <li> Reduces chances of cancer </li>
+            <li> Improves heart health </li>
+            <li> Promotes protein supply </li>',
         ],
 
         //21
@@ -238,8 +242,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-2.jpg',
             'title' => ' Fresh Mint Leaf',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> 	Aids digestion and soothes upset bowel </li>
+            <li>	Reduces symptoms of asthma </li>
+            <li> 	Improves brain function </li>
+            <li> Rich in Nutrients </li>',
         ],
 
         //25
@@ -256,8 +262,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/leaf-4.jpg',
             'title' => ' Fresh Lemongrass',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> Boost your immune system </li>
+            <li> Protects your body against infection </li>
+            <li> Gives a healthy skin </li>
+            <li> Aids easy digestion </li>',
         ],
 
         //27
@@ -315,8 +323,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/snail.jpg',
             'title' => 'Snail',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li>	Boosts the immune system </li>
+            <li> A Rich Source of Vitamins </li>
+            <li> Possess anti-cancer properties </li>
+            <li> Improves brain health </li>',
         ],
 
         //33
