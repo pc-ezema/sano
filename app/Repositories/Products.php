@@ -102,8 +102,10 @@ class Products{
         (object) [
             'thumbnail' => '/images/sano-gallery/fried-rice-seasoning.jpg',
             'title' => 'Fried Rice Seasoning',
-            'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua.',
+            'description' => '<li> Boost immunity </li>
+            <li> 	Promotes heart health  </li>
+            <li> 	Contains anti-cancer properties  </li>
+            <li> 	Promotes skin health </li>',
         ],
 
         //11
