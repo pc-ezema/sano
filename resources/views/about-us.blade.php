@@ -16,19 +16,19 @@
    
 
     <!-- Section: about -->
-    <section class="">
+    {{-- <section class="">
       <div class="container pb-0">
         <div class="row">
           <div class="col-md-8">
             {{-- <h2 class="text-theme-colored mt-30">Welcome To <span class="text-theme-colored2">Sano Foods</span></h2> --}}
-           <h2 class="text-theme-colored mb-0">Our Team</h2>
+           {{-- <h2 class="text-theme-colored mb-0">Our Team</h2>
           </div>
         </div>
       </div>
-    </section>
+    </section> --}} --}}
 
     <!-- Section: Team -->
-<section id="team">
+{{-- <section id="team">
   <div class="container">
     <div class="row mtli-row-clearfix">
       <div class="col-xs-12 col-sm-6 col-md-3 sm-text-center mb-30 mb-sm-30">
@@ -81,7 +81,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> --}}
 
     <!-- Section: Services -->
     {{-- <section class="bg-silver-light">
