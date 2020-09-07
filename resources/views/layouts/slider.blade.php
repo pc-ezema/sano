@@ -11,7 +11,7 @@
               <!-- SLIDE 1 -->
               <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <div class="mobile-first-slider">
+                <div class="first-slider">
                 </div>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
@@ -31,7 +31,7 @@
                   style="z-index: 5;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 1.00);"> 
                 </div>
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-1-layer-2" 
                   data-x="['left','left','left','left']" data-hoffset="['50','50','50','30']" 
                   data-y="['top','top','top','top']" data-voffset="['120','100','70','90']" 
@@ -53,7 +53,7 @@
                   style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">No added  <span class="text-theme-colored">hormones, </span> no <span class="text-theme-color-2">vaccines </span> or antibiotics.
                 </div>
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-1-layer-3" 
                   data-x="['left','left','left','left']" data-hoffset="['50','50','50','30']" 
                   data-y="['top','top','top','top']" data-voffset="['280','220','180','180']" 
@@ -101,7 +101,7 @@
               <!-- SLIDE 2 -->
               <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <div class="mobile-second-slider">
+                <div class="second-slider">
                 </div>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
@@ -121,7 +121,7 @@
                   style="z-index: 5;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 1.00);"> 
                 </div>
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-2-layer-3" 
                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                   data-y="['top','top','top','top']" data-voffset="['165','135','105','130']" 
@@ -144,7 +144,7 @@
                   style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">For the  <span class="text-theme-colored">spicy</span> part of <span class="text-theme-color-2">life,</span> think Organic spices.
                 </div>
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-2-layer-4" 
                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                   data-y="['top','top','top','top']" data-voffset="['320','260','220','220']" 
@@ -167,7 +167,7 @@
                   style="z-index: 7; white-space: nowrap;">We provide amazing array of organic consumer products <br> both fresh and dried for your consumption.
                 </div>
                 <!-- LAYER NR. 5 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-2-layer-5" 
                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                   data-y="['top','top','top','top']" data-voffset="['400','340','300','300']" 
@@ -193,7 +193,7 @@
               <!-- SLIDE 3 -->
               <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                 <!-- MAIN IMAGE -->
-                <div class="mobile-third-slider">
+                <div class="third-slider">
                 </div>
                 <!-- LAYERS -->
                 <!-- LAYER NR. 1 -->
@@ -213,7 +213,7 @@
                   style="z-index: 5;background-color:rgba(0, 0, 0, 0);border-color:rgba(0, 0, 0, 1.00);"> 
                 </div>
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-3-layer-2" 
                   data-x="['center','center','center','center']" data-hoffset="['310','200','100','0']" 
                   data-y="['top','top','top','top']" data-voffset="['120','100','70','90']" 
@@ -235,7 +235,7 @@
                   style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">Enjoy the <span class="text-theme-colored">yumminess</span> of a true  <span class="text-theme-color-2">healthy</span> bread.
                 </div>
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" 
+                <div class="tp-caption tp-resizeme text-grey rs-parallaxlevel-0" 
                   id="slide-3-layer-3" 
                   data-x="['center','center','center','center']" data-hoffset="['310','200','100','0']" 
                   data-y="['top','top','top','top']" data-voffset="['280','220','180','180']" 

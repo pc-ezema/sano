@@ -8620,7 +8620,7 @@ body.has-fixed-footer .main-content {
    }
 }
 
-.mobile-first-slider {
+.first-slider {
     background-repeat: no-repeat;
     background-image: url("/images/first-slider.jpg");
     background-size: cover;
@@ -8631,7 +8631,7 @@ body.has-fixed-footer .main-content {
     z-index: 20;
 }
 
-.mobile-second-slider {
+.second-slider {
   background-repeat: no-repeat;
   background-image: url("/images/second-slider.jpg");
   background-size: cover;
@@ -8642,7 +8642,7 @@ body.has-fixed-footer .main-content {
   z-index: 20;
 }
 
-.mobile-third-slider {
+.third-slider {
   background-repeat: no-repeat;
   background-image: url("/images/third-slider.jpg");
   background-size: cover;
@@ -8654,7 +8654,7 @@ body.has-fixed-footer .main-content {
 }
 
 @media (min-width: 0px) and (max-width: 500px) {
-  .mobile-first-slider {
+  .first-slider {
     background-repeat: no-repeat;
     background-image: url("/images/mobile-first-slider.jpg");
     background-size: cover;
@@ -8666,7 +8666,7 @@ body.has-fixed-footer .main-content {
 
   }
 
-  .mobile-second-slider {
+  .second-slider {
     background-repeat: no-repeat;
     background-image: url("/images/mobile-second-slider.jpg");
     background-size: cover;
@@ -8678,7 +8678,7 @@ body.has-fixed-footer .main-content {
 
   }
 
-  .mobile-third-slider {
+  .third-slider {
     background-repeat: no-repeat;
     background-image: url("/images/mobile-third-slider.jpg");
     background-size: cover;
