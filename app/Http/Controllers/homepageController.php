@@ -23,6 +23,10 @@ class homepageController extends Controller
         return view('contact-us');
     }
 
+    public function ofspBakery(){
+        return view("ofsp-bakery");
+    }
+      
     public function aboutUs(){
         return view("about-us");
     }

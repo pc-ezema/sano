@@ -25,7 +25,7 @@
           </div>
         </div>
       </div>
-    </section> --}} --}}
+    </section> --}}
 
     <!-- Section: Team -->
 {{-- <section id="team">

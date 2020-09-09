@@ -21,6 +21,9 @@ Route::get("/about-us" , 'homepageController@aboutUs');
 Route::get("/our-products" , "homepageController@products");
 Route::get("/services" , "homepageController@services");
 Route::get("/our-team" , "homepageController@ourTeam");
+Route::get("/ofsp-bakery" , "homepageController@ofspBakery");
+
+
 
 Route::post('/contact-us', 'homepageController@contactUsConfirm');
 
