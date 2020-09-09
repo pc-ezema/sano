@@ -27,8 +27,8 @@
                         <div class="sm-height-auto bg-theme-colored_1">
                             <div class="text-center pt-30 pb-sm-30">
                                 <div class="icon-box text-center">
-                                    <a class="icon bg-silver-light icon-circled" href="#"> <i
-                                            class="flaticon-medical-blood8 text-theme-colored"></i> </a>
+                                    <a class="icon bg-silver-light icon-circled" href="#"> 
+                                        <i><img src="/images/ofsp_bread.png" alt="ofsb_bread" /></i> </a>
                                     <h3 class="text-white">OFSP Bread</h3>
                                     <p class="text-white_1">A bread with abundant vitamin in every bite</p>
                                 </div>
@@ -40,8 +40,8 @@
                         <div class="sm-height-auto bg-theme-colored2">
                             <div class="text-center pt-30 pb-sm-30">
                                 <div class="icon-box text-center">
-                                    <a class="icon bg-silver-light icon-circled" href="#"> <i
-                                            class="flaticon-medical-medical45 text-theme-colored"></i> </a>
+                                    <a class="icon bg-silver-light icon-circled" href="#"> <i>
+                                        <img src="/images/organic_meats.png" alt="organic_meats" /></i> </a>
                                     <h3 class="text-white">Organic Meats</h3>
                                     <p class="text-white_1">Enjoy the healthy and nourishing taste of an organic meat</p>
                                 </div>
@@ -53,8 +53,8 @@
                         <div class="sm-height-auto bg-theme-colored_1">
                             <div class="text-center pt-30 pb-sm-30">
                                 <div class="icon-box text-center">
-                                    <a class="icon bg-silver-light icon-circled" href="#"> <i
-                                            class="flaticon-medical-pill text-theme-colored"></i> </a>
+                                    <a class="icon bg-silver-light icon-circled" href="#"> 
+                                        <i><img src="/images/organic_spices.png" alt="organic_spices" /></i> </a>
                                     <h3 class="text-white">Organic Spices</h3>
                                     <p class="text-white_1">Fortify your health with fresh and pure spices</p>
                                 </div>
@@ -66,8 +66,8 @@
                         <div class="sm-height-auto bg-theme-colored2">
                             <div class="text-center pt-30 pb-sm-30">
                                 <div class="icon-box text-center">
-                                    <a class="icon bg-silver-light icon-circled" href="#"> <i
-                                            class="flaticon-medical-heart254  text-theme-colored"></i> </a>
+                                    <a class="icon bg-silver-light icon-circled" href="#"> 
+                                        <i><img src="/images/priscus_tea.png" alt="priscus_tea" /></i> </a>
                                     <h3 class="text-white">Priscus Tea</h3>
                                     <p class="text-white_1">A tea with a refreshing burst to a healthy life</p>
                                 </div>
